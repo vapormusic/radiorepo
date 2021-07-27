@@ -1,4 +1,4 @@
-5
+6
 http://hyades.shoutca.st:8043/stream
 http://vapormusic6.herokuapp.com/5qap5aO4i9A
 http://vapormusic2.herokuapp.com/DWcJFNfaw9c
@@ -6,4 +6,4 @@ http://vapormusic2.herokuapp.com/l7TxwBhtTUY
 http://radio.plaza.one/mp3_96
 https://vapor.fm:8000/stream
 http://vapormusic5.herokuapp.com/IwJXJ5mhIfM
-http://vapormusic.herokuapp.com/neVy2pyirKI
+http://vapormusic.herokuapp.com/V0cDxpq5OsQ
